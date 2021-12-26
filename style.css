@@ -1,0 +1,244 @@
+body {
+    font-family: 'Courier Prime', monospace;
+    color: white;
+    background-color: #FAC898;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+::placeholder {
+    color: white;
+}
+
+.form-control{
+    box-shadow: none;
+    border:none;
+}
+
+.user_name {
+    margin-left: 55px;
+}
+
+#parent{
+background-color: white;
+color:#FAC898;
+border: none;
+font-size:18px;
+}
+
+#parent:hover{
+    text-decoration: underline;
+}
+
+
+#parent_header{
+    color:#FAC898;
+}
+
+.color {
+    background-color:white;
+    color:#FAC898;
+   
+}
+
+#time{
+    font-size: 15px;
+    float: right;
+
+}
+
+
+#Credit_name {
+
+    color: #FAC898;
+}
+
+#Credit_name:hover {
+  
+   border-radius: 10px;
+
+}
+
+#button_login {
+
+    color:#FAC898;
+    float: left;
+}
+
+#button_login:hover {
+
+    cursor: pointer;
+   
+
+}
+
+#user{
+    border-radius: 25px;
+    width: 100px;
+    height:20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.user_name {
+    color: white;
+    background-color: #FAC898;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+}
+
+
+
+
+.btn {
+
+    color: white;
+    margin-top: 35px;
+    background-color: #FAC898;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    border-width: 3px;
+   
+}
+
+.btn {
+
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    
+}
+
+.btn:hover {
+   
+    background-color: white;
+    cursor: pointer;
+    color:#FAC898;
+    border-color:#FAC898;
+    border-width: 3px;
+    
+}
+
+
+.header {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+.login_div {
+    float: none;
+    border-radius: 15px;
+   text-align: center;
+    padding: 20px;
+    width: 450px;
+    height: 300px;
+    background: white;
+    border-radius: 35px;
+    justify-content: center;
+}
+
+#login_button {
+    width: 80%;
+    border-radius: 15px;
+}
+
+#room_name {
+    cursor: pointer;
+    color: white;
+    border-color: white;
+    border-width: 3px;
+    border-radius:25px;
+    background-color:#FAC898;
+}
+
+
+
+
+
+
+
+
+#output {
+    padding: 10px;
+    width: 80%;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 35px;
+    justify-content: center;
+color:#FAC898;
+font-size: larger;
+}
+
+#output:hover {
+    cursor: pointer;
+
+}
+
+
+
+.input_div_room_page {
+    width: 80%;
+    color:white;
+    font-size: 20px;
+}
+
+.input_div_message_page {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: #FAC898;
+}
+
+.input_div_message_page label {
+    color: black;
+}
+
+.input_div_message_page #msg {
+    width: 60%;
+}
+
+.input_div_message_page button {
+    margin-top: 15px;
+    width: 7%;
+}
+
+.user_tick {
+    width: 20px;
+}
+
+.message_h4 {
+    padding-left: 5px;
+    color: #FAC898;
+}
+
+#msg {
+    color:#FAC898;
+    background-color: white;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+}
+
+#msg:focus {
+    color: white;
+    outline: none;
+    font-size: 15px;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
